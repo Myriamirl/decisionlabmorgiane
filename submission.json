@@ -1,0 +1,10 @@
+{
+    "model": "linear",
+    "safety_margin_pp": 0.2,
+    "allocations": [
+        {
+            "region_id": 394976,
+            "capital_usd": 2000000.0
+        }
+    ]
+}
