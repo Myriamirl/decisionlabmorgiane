@@ -1,4 +1,3 @@
-# decisionlabmorgiane
 # DecisionLab Morgiane — Allocation de Capital Immobilier (Zillow Group)
 
 Ce projet propose une stratégie quantitative d'allocation de capital basée sur l'analyse prédictive des prix de l'immobilier aux États-Unis (données Zillow). 
@@ -8,7 +7,7 @@ L'objectif est d'optimiser l'engagement d'un portefeuille de 10 000 000 \$ en ar
 ---
 
 Ce TD sert d'épreuve de substitution pour la second note du cours de Python pour la Data Science
- 
+
 ---
 
 ## Synthèse & Pitch (Conseil d’Administration) aussi noté en markdown en fin de notebook
